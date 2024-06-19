@@ -12,7 +12,7 @@ const ATTRIBUTES: &[&str] = &[
     "test",
     "ignore",
     "should_panic",
-    "derive",
+    //"derive",
     "automatically_derived",
     "macro_export",
     "macro_use",
